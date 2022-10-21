@@ -1,0 +1,4 @@
+# Dependency directories
+node_modules/
+
+# environment variables file je le laisse pour que l'appli fonctionne
